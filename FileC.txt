@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 "First File C feature"
 
+=======
+"First File C feature" 
+>>>>>>> feature
